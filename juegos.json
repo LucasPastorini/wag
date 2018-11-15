@@ -16,11 +16,11 @@
             "titulo":"HITMAN 2",
             "precio":60,
             "desc1":"Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world’s most creative assassin, Agent 47 in the ultimate spy thriller story",
-            "desc2":"",
+            "desc2":"Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world's most creative assassin, Agent 47. Prepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target's true identity and the truth about his past, it changes everything. HITMAN™ 2 introduces new ways to play, new game modes and new features, including the new Sniper Assassin mode with franchise first co-op play. ",
             "trailer":"https://www.youtube.com/embed/R8aRCwbZGek",
             "tags":["Stealth", "Action", "Violent", "Singleplayer"],
             "stars":4,
-            "reqs":["","","","",""]
+            "reqs":["Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940","8 GB","NVIDIA GeForce GTX 660 / Radeon HD 7870","60 GB","DirectX: Version 11"]
         }
     ]
 }
