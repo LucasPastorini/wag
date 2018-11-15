@@ -12,14 +12,14 @@
             "reqs":["Intel Core i5-4430 / AMD FX-6300","8GB"," NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB","30GB","Conexión a internet, DirectX 11"]
         },
         {
-            "id":"",
-            "titulo":"",
-            "precio":0,
-            "desc1":"",
+            "id":"HITMAN2",
+            "titulo":"HITMAN 2",
+            "precio":60,
+            "desc1":"Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world’s most creative assassin, Agent 47 in the ultimate spy thriller story",
             "desc2":"",
-            "trailer":"",
-            "tags":["", "", "", ""],
-            "stars":5,
+            "trailer":"https://www.youtube.com/embed/R8aRCwbZGek",
+            "tags":["Stealth", "Action", "Violent", "Singleplayer"],
+            "stars":4,
             "reqs":["","","","",""]
         }
     ]
