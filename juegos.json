@@ -87,6 +87,6 @@
             "tags":["Carreras", "Multiplayer"],
             "stars":4,
             "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
-        },
+        }
     ]
 }
