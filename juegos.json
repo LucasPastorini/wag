@@ -7,7 +7,7 @@
             "desc1":"PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
             "desc2":"PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing. PLAYERUNKNOWN, aka Brendan Greene, is a pioneer of the battle royale genre and the creator of the battle royale game modes in the ARMA series and H1Z1: King of the Kill. At PUBG Corp., Greene is working with a veteran team of developers to make PUBG into the world's premiere battle royale experience.",
             "trailer":"https://www.youtube.com/embed/4rG9noTfb4A",
-            "tags":["Early Access", "FPS", "Survival", "Crafting"],
+            "tags":["Early Access", "FPS", "Survival"],
             "stars":5,
             "reqs":["Intel Core i5-4430 / AMD FX-6300","8GB"," NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB","30GB","Conexión a internet, DirectX 11"]
         },
@@ -18,9 +18,64 @@
             "desc1":"Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world’s most creative assassin, Agent 47 in the ultimate spy thriller story",
             "desc2":"Travel the globe and track your targets across exotic sandbox locations in HITMAN™ 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world's most creative assassin, Agent 47. Prepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target's true identity and the truth about his past, it changes everything. HITMAN™ 2 introduces new ways to play, new game modes and new features, including the new Sniper Assassin mode with franchise first co-op play. ",
             "trailer":"https://www.youtube.com/embed/R8aRCwbZGek",
-            "tags":["Stealth", "Action", "Violent", "Singleplayer"],
+            "tags":["Sigilo", "Acción", "Violencia", "Singleplayer"],
             "stars":4,
             "reqs":["Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940","8 GB","NVIDIA GeForce GTX 660 / Radeon HD 7870","60 GB","DirectX: Version 11"]
+        }
+        {
+            "id":"ASS",
+            "titulo":"Animal Super Squad",
+            "precio":7,
+            "desc1":"Animal Super Squad is a physics-based adventure game that lets you play as your favorite animal. Speed through a world full of dangers and bananas. Create your own levels, share them with the community, or forget all that nonsense and just play other people’s stuff.",
+            "desc2":"Animal Super Squad is a new and creative game where a big part of the gameplay is created and shared by the community. Players can create their own maps, upvote the best maps, and once a week, have a chance at being featured in the Weekly Spotlight. All gameplay assets used by the developers of the game are available for the players to use in the level editor, consisting of hundreds of assets and easy-to-use scripts. However, if you just want to play other people’s maps instead of creating your own, that’s perfectly fine too, we won’t judge you, everyone’s welcome here buddy. Naturally, you can play the developer-made Adventure Mode as well, which feature a smooth learning curve in the beginning, and frustratingly impossible levels in the end. ",
+            "trailer":"https://www.youtube.com/embed/JqChjkxIlK8",
+            "tags":["Indie", "Acción", "Simulación", "Aventura"],
+            "stars":3,
+            "reqs":["Intel Core i3 6100 / AMD Ryzen 3 1200","4 GB","Intel HD Graphics 520","2 GB","DirectX: Version 11"]
+        },
+        {
+            "id":"OW",
+            "titulo":"Overwatch",
+            "precio":39.99,
+            "desc1":"Choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash an array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.",
+            "desc2":"Speed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers like Dragonstrike, Transcendence, and Graviton Surge. Every hero has a unique set of extraordinary game-changing abilities. Every hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.",
+            "trailer":"https://www.youtube.com/embed/FqnKB22pOC0",
+            "tags":["Shooter", "Multiplayer"],
+            "stars":5,
+            "reqs":["Intel® Core™ i3 or AMD Phenom™ X3 8650","4 GB","NVIDIA® GeForce® GTX 460, ATI Radeon™ HD 4850, or Intel® HD Graphics 4400","30 GB","1024 x 768 minimum display resolution"]
+        },
+        {
+            "id":"ROE",
+            "titulo":"Ring of Elysium",
+            "precio":0,
+            "desc1":"Escape an astonishing disaster in Ring of Elysium, a battle royale shooter developed by Tencent Games. ",
+            "desc2":"Ring of Elysium es el nuevo Battle Royale con el que el gigante chino Tencent pretende abrirse un hueco en este saturado género. Fue presentado el año pasado bajo en seudónimo Europa, pero finalmente se llamará Ring of Elysium y llegará la próxima semana a Steam, siendo además free to play. Tendrá algunas particularidades que lo harán diferente al resto: El objetivo será sobrevivir un máximo de 4 jugadores hasta que llegue el helicóptero para rescatarlos. Tendrá un sistema de clima dinámico que cambiará durante la partida, con niebla, tormentas de nieve e incluso avalanchas. Será posible escalar montañas a golpe de piolet. Habrá vehículos, sí, pero además se incluyen algunos aéreos como alas deltas u otros tan originales como tablas de snowboard, motos de nieve etc.",
+            "trailer":"https://www.youtube.com/embed/sHje28KtTEc",
+            "tags":["Early Access", "Battle Royale", "Shooter"],
+            "stars":2,
+            "reqs":["Intel i3 8130U(2Cores, 2.3GHz)","4 GB","NVIDIA GeForce GT 730","10 GB",""]
+        },
+        {
+            "id":"SMITE",
+            "titulo":"SMITE",
+            "precio":0,
+            "desc1":"Join over 25 million SMITE players! Wield Thor’s hammer, transform your foes to stone as Medusa, or choose from the other 90+ mythological icons. You’ll always have more to discover with free updates every two weeks. Enter the Battleground of the Gods! ",
+            "desc2":"Join the millions of SMITE players competing in the free-to-play Battleground of the Gods! SMITE is the multiplayer online battle arena for players of every skill level. With a growing roster of more than 90 Gods, SMITE features recognizable icons from global mythology. Launch lightning bolts as Zeus, assassinate from the shadows as Loki, or charge into battle as the mighty Monkey King, Sun Wukong.SMITE has competition for everyone. Enter the Arena, the perfect game mode for players hungry for fast-paced battles. Looking for a more strategic experience? Conquest is SMITE’s premiere competitive mode. Crush the opposing Gods and slay their Titan for a triumphant victory. Test your divine skills against the best of the best SMITE players in Ranked. Climb the ladder from Bronze to Masters and claim your place at the top. Assemble a team and enter the world of SMITE esports. Power your way through and compete on the main stage to become a World Champion. ",
+            "trailer":"https://www.youtube.com/embed/9IZTss4ud1k",
+            "tags":["MOBA", "Multiplayer", "Acción", "Coop"],
+            "stars":3,
+            "reqs":["Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz","4GB","Nvidia GeForce 8800 GT","20GB",""]
+        },
+        {
+            "id":"MKX",
+            "titulo":"Mortal Kombat X",
+            "precio":15,
+            "desc1":"Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay.",
+            "desc2":"Who’s Next? Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay. For the first time, players can choose from multiple variations of each character impacting both strategy and fighting style. ",
+            "trailer":"https://www.youtube.com/embed/MHGwhPyxnTI",
+            "tags":["Fighting", "Gore", "Acción", "Violencia"],
+            "stars":5,
+            "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
         }
     ]
 }
