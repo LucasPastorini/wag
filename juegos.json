@@ -70,12 +70,23 @@
             "id":"MKX",
             "titulo":"Mortal Kombat X",
             "precio":15,
-            "desc1":"Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay.",
+            "desc1":"Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar.",
             "desc2":"Who’s Next? Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay. For the first time, players can choose from multiple variations of each character impacting both strategy and fighting style. ",
             "trailer":"https://www.youtube.com/embed/MHGwhPyxnTI",
             "tags":["Fighting", "Gore", "Acción", "Violencia"],
             "stars":5,
             "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
-        }
+        },
+        {
+            "id":"FORZA",
+            "titulo":"Forza Horizon 4",
+            "precio":59.99,
+            "desc1":"Experience the Next Generation of the #1 Fighting Franchise. Mortal Kombat X combines unparalleled, cinematic presentation with all new gameplay.",
+            "desc2":"Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar. Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar.",
+            "trailer":"https://www.youtube.com/embed/VmQNo8xtcAg",
+            "tags":["Carreras", "Multiplayer"],
+            "stars":4,
+            "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
+        },
     ]
 }
