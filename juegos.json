@@ -9,6 +9,7 @@
             "trailer":"https://www.youtube.com/embed/4rG9noTfb4A",
             "tags":["Early Access", "FPS", "Survival"],
             "stars":5,
+            "plat":["XBOX ONE","PS4","PC"],
             "reqs":["Intel Core i5-4430 / AMD FX-6300","8GB"," NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB","30GB","Conexión a internet, DirectX 11"]
         },
         {
@@ -20,6 +21,7 @@
             "trailer":"https://www.youtube.com/embed/R8aRCwbZGek",
             "tags":["Sigilo", "Acción", "Violencia", "Singleplayer"],
             "stars":4,
+            "plat":["XBOX ONE","PS4","PC"],
             "reqs":["Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940","8 GB","NVIDIA GeForce GTX 660 / Radeon HD 7870","60 GB","DirectX: Version 11"]
         },
         {
@@ -31,6 +33,7 @@
             "trailer":"https://www.youtube.com/embed/JqChjkxIlK8",
             "tags":["Indie", "Acción", "Simulación", "Aventura"],
             "stars":3,
+            "plat":["PS4","PC"],
             "reqs":["Intel Core i3 6100 / AMD Ryzen 3 1200","4 GB","Intel HD Graphics 520","2 GB","DirectX: Version 11"]
         },
         {
@@ -42,6 +45,7 @@
             "trailer":"https://www.youtube.com/embed/FqnKB22pOC0",
             "tags":["Shooter", "Multiplayer"],
             "stars":5,
+            "plat":["XBOX ONE","PS4","PC"],
             "reqs":["Intel® Core™ i3 or AMD Phenom™ X3 8650","4 GB","NVIDIA® GeForce® GTX 460, ATI Radeon™ HD 4850, or Intel® HD Graphics 4400","30 GB","1024 x 768 minimum display resolution"]
         },
         {
@@ -53,6 +57,7 @@
             "trailer":"https://www.youtube.com/embed/sHje28KtTEc",
             "tags":["Early Access", "Battle Royale", "Shooter"],
             "stars":2,
+            "plat":["PC"],
             "reqs":["Intel i3 8130U(2Cores, 2.3GHz)","4 GB","NVIDIA GeForce GT 730","10 GB",""]
         },
         {
@@ -64,6 +69,7 @@
             "trailer":"https://www.youtube.com/embed/9IZTss4ud1k",
             "tags":["MOBA", "Multiplayer", "Acción", "Coop"],
             "stars":3,
+            "plat":["XBOX ONE","PS4","PC","Nintendo Switch"],
             "reqs":["Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz","4GB","Nvidia GeForce 8800 GT","20GB",""]
         },
         {
@@ -75,6 +81,7 @@
             "trailer":"https://www.youtube.com/embed/MHGwhPyxnTI",
             "tags":["Fighting", "Gore", "Acción", "Violencia"],
             "stars":5,
+            "plat":["XBOX ONE","PS4","PC"],
             "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
         },
         {
@@ -86,6 +93,7 @@
             "trailer":"https://www.youtube.com/embed/VmQNo8xtcAg",
             "tags":["Carreras", "Multiplayer"],
             "stars":4,
+            "plat":["XBOX ONE","PC"],
             "reqs":["Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz","3GB","NVIDIA GeForce GTX 460 | AMD Radeon HD 5850","36GB","DirectX: Version 11"]
         }
     ]
