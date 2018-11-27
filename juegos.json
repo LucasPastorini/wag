@@ -1,18 +1,6 @@
 {
     "juegos":[
         {
-            "id":"PUBG",
-            "titulo":"PlayerUnknown Battlegrounds",
-            "precio":20,
-            "desc1":"PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
-            "desc2":"PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing. PLAYERUNKNOWN, aka Brendan Greene, is a pioneer of the battle royale genre and the creator of the battle royale game modes in the ARMA series and H1Z1: King of the Kill. At PUBG Corp., Greene is working with a veteran team of developers to make PUBG into the world's premiere battle royale experience.",
-            "trailer":"https://www.youtube.com/embed/4rG9noTfb4A",
-            "tags":["Early Access", "FPS", "Survival"],
-            "stars":5,
-            "plat":["XBOX ONE","PS4","PC"],
-            "reqs":["Intel Core i5-4430 / AMD FX-6300","8GB"," NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB","30GB","Conexión a internet, DirectX 11"]
-        },
-        {
             "id":"HITMAN2",
             "titulo":"HITMAN 2",
             "precio":60,
